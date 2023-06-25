@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Web Development,CPP and Python .
 - 💞️ I’m looking to collaborate on some web dev projects.
-- 📫 How to reach me- mail me at ayushag1244@gmial.com
+- 📫 How to reach me- mail me at ayushag1244@gmail.com
 
 <!---
 code-ayush07/code-ayush07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
